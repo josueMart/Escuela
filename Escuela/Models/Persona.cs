@@ -8,5 +8,17 @@ namespace Escuela.Models
 {
     class Persona
     {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public short Edad { get; set; }
+        public string Telefono { get; set; }
+        public string NombreCompleto
+        {
+            get
+            {
+                return string.Format("{0} {1}", Nombre, Apellido);
+            }
+        }
     }
 }
