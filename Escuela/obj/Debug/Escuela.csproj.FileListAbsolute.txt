@@ -1,1 +1,6 @@
 C:\Users\Josue Martinez\Documents\Visual Studio 2013\Projects\Escuela\Escuela\bin\Debug\Escuela.exe.config
+C:\Users\Josue Martinez\Documents\Visual Studio 2013\Projects\Escuela\Escuela\bin\Debug\Escuela.exe
+C:\Users\Josue Martinez\Documents\Visual Studio 2013\Projects\Escuela\Escuela\bin\Debug\Escuela.pdb
+C:\Users\Josue Martinez\Documents\Visual Studio 2013\Projects\Escuela\Escuela\obj\Debug\Escuela.csprojResolveAssemblyReference.cache
+C:\Users\Josue Martinez\Documents\Visual Studio 2013\Projects\Escuela\Escuela\obj\Debug\Escuela.exe
+C:\Users\Josue Martinez\Documents\Visual Studio 2013\Projects\Escuela\Escuela\obj\Debug\Escuela.pdb

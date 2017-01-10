@@ -10,6 +10,8 @@ namespace Escuela
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GESTION DE INSTITUCION");
+            Console.ReadLine();
         }
     }
 }
