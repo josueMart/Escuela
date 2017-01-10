@@ -6,8 +6,16 @@ using System.Threading.Tasks;
 
 namespace Escuela.Models
 {
-    class Alumno:Persona
+    class Alumno : Persona
     {
         public string Email { get; set; }
+        
+
+        public string ListaInasistencias()
+        {
+            return Inasistencias.ToString();
+        }
+       
+
     }
 }
