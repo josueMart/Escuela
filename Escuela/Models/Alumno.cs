@@ -15,6 +15,12 @@ namespace Escuela.Models
         {
             return Inasistencias.ToString();
         }
+
+        public Alumno(string nombre, string apellido)
+        {
+            Nombre = nombre;
+            Apellido = apellido;
+        }
        
 
     }
